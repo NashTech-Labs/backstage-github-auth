@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-opsinit-demo
+  description: Demonstration of a Backstage application.
+spec:
+  type: website
+  owner: john@example.com
+  lifecycle: experimental
